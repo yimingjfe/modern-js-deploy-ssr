@@ -1,2 +1,0 @@
-patchedDependencies:
-  '@modern-js/app-tools': patches/@modern-js__app-tools.patch
